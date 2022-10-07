@@ -1,0 +1,30 @@
+
+
+.container{
+    width: 50%;
+    margin-top: 5px;
+    }
+     
+    .table,th,td{
+    border:1px solid black;
+    }
+    
+    .responsive{
+    width: 50%;
+    height:50%;
+    max-width: 75%;
+    }
+    
+    .row{
+        margin: auto;
+        width: 50%;
+        }
+    
+
+
+
+
+
+
+
+
